@@ -22,7 +22,7 @@
     "@mdx-js/react": "^3.0.0",
     "@tippyjs/react": "^4.2.6",
     "@xyflow/react": "^12.5.5",
-    "axios": "^1.7.7",
+    "axios": "^1.8.2",
     "clsx": "^2.0.0",
     "d3": "^7.9.0",
     "dotenv": "^16.4.5",
