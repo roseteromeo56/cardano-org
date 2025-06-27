@@ -442,5 +442,11 @@
     "role": "Japan",
     "country": "JP",
     "link": "https://forum.cardano.org/u/haskellcoding"
+  },
+  {
+    "name": "Romeo Rosete",
+    "role": "eUTxO.org Owner",
+    "country": "US",
+    "link": "https://eutxo.org"
   }
 ]
